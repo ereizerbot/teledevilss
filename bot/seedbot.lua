@@ -227,7 +227,7 @@ function create_config( )
     about_text = [[redstormbot - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/mersadred/redstormbot
+
 
 Admins
 @mersad1313 [Developer]☢♍️
